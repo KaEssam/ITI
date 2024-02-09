@@ -1,0 +1,7 @@
+E:\frontend Projectes\c#\C# Advanced\Day5-C#-Advanced\Day5-C#-Advanced\bin\Debug\Day5-C#-Advanced.exe.config
+E:\frontend Projectes\c#\C# Advanced\Day5-C#-Advanced\Day5-C#-Advanced\bin\Debug\Day5-C#-Advanced.exe
+E:\frontend Projectes\c#\C# Advanced\Day5-C#-Advanced\Day5-C#-Advanced\bin\Debug\Day5-C#-Advanced.pdb
+E:\frontend Projectes\c#\C# Advanced\Day5-C#-Advanced\Day5-C#-Advanced\obj\Debug\Day5-C#-Advanced.csproj.AssemblyReference.cache
+E:\frontend Projectes\c#\C# Advanced\Day5-C#-Advanced\Day5-C#-Advanced\obj\Debug\Day5-C#-Advanced.csproj.CoreCompileInputs.cache
+E:\frontend Projectes\c#\C# Advanced\Day5-C#-Advanced\Day5-C#-Advanced\obj\Debug\Day5-C#-Advanced.exe
+E:\frontend Projectes\c#\C# Advanced\Day5-C#-Advanced\Day5-C#-Advanced\obj\Debug\Day5-C#-Advanced.pdb
