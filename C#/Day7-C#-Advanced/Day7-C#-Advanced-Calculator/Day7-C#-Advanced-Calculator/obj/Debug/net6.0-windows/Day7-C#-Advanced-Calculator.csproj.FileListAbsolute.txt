@@ -1,0 +1,16 @@
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Calculator\Day7-C#-Advanced-Calculator\bin\Debug\net6.0-windows\Day7-C#-Advanced-Calculator.exe
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Calculator\Day7-C#-Advanced-Calculator\bin\Debug\net6.0-windows\Day7-C#-Advanced-Calculator.deps.json
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Calculator\Day7-C#-Advanced-Calculator\bin\Debug\net6.0-windows\Day7-C#-Advanced-Calculator.runtimeconfig.json
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Calculator\Day7-C#-Advanced-Calculator\bin\Debug\net6.0-windows\Day7-C#-Advanced-Calculator.dll
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Calculator\Day7-C#-Advanced-Calculator\bin\Debug\net6.0-windows\Day7-C#-Advanced-Calculator.pdb
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Calculator\Day7-C#-Advanced-Calculator\obj\Debug\net6.0-windows\Day7_C__Advanced_Calculator.Form1.resources
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Calculator\Day7-C#-Advanced-Calculator\obj\Debug\net6.0-windows\Day7-C#-Advanced-Calculator.csproj.GenerateResource.cache
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Calculator\Day7-C#-Advanced-Calculator\obj\Debug\net6.0-windows\Day7-C#-Advanced-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Calculator\Day7-C#-Advanced-Calculator\obj\Debug\net6.0-windows\Day7-C#-Advanced-Calculator.AssemblyInfoInputs.cache
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Calculator\Day7-C#-Advanced-Calculator\obj\Debug\net6.0-windows\Day7-C#-Advanced-Calculator.AssemblyInfo.cs
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Calculator\Day7-C#-Advanced-Calculator\obj\Debug\net6.0-windows\Day7-C#-Advanced-Calculator.csproj.CoreCompileInputs.cache
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Calculator\Day7-C#-Advanced-Calculator\obj\Debug\net6.0-windows\Day7-C#-Advanced-Calculator.dll
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Calculator\Day7-C#-Advanced-Calculator\obj\Debug\net6.0-windows\refint\Day7-C#-Advanced-Calculator.dll
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Calculator\Day7-C#-Advanced-Calculator\obj\Debug\net6.0-windows\Day7-C#-Advanced-Calculator.pdb
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Calculator\Day7-C#-Advanced-Calculator\obj\Debug\net6.0-windows\Day7-C#-Advanced-Calculator.genruntimeconfig.cache
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Calculator\Day7-C#-Advanced-Calculator\obj\Debug\net6.0-windows\ref\Day7-C#-Advanced-Calculator.dll
