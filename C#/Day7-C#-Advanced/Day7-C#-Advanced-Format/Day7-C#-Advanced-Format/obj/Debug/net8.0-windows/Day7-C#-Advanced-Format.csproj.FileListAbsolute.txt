@@ -1,0 +1,16 @@
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Format\Day7-C#-Advanced-Format\bin\Debug\net8.0-windows\Day7-C#-Advanced-Format.exe
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Format\Day7-C#-Advanced-Format\bin\Debug\net8.0-windows\Day7-C#-Advanced-Format.deps.json
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Format\Day7-C#-Advanced-Format\bin\Debug\net8.0-windows\Day7-C#-Advanced-Format.runtimeconfig.json
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Format\Day7-C#-Advanced-Format\bin\Debug\net8.0-windows\Day7-C#-Advanced-Format.dll
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Format\Day7-C#-Advanced-Format\bin\Debug\net8.0-windows\Day7-C#-Advanced-Format.pdb
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Format\Day7-C#-Advanced-Format\obj\Debug\net8.0-windows\Day7_C__Advanced_Format.Form1.resources
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Format\Day7-C#-Advanced-Format\obj\Debug\net8.0-windows\Day7-C#-Advanced-Format.csproj.GenerateResource.cache
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Format\Day7-C#-Advanced-Format\obj\Debug\net8.0-windows\Day7-C#-Advanced-Format.GeneratedMSBuildEditorConfig.editorconfig
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Format\Day7-C#-Advanced-Format\obj\Debug\net8.0-windows\Day7-C#-Advanced-Format.AssemblyInfoInputs.cache
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Format\Day7-C#-Advanced-Format\obj\Debug\net8.0-windows\Day7-C#-Advanced-Format.AssemblyInfo.cs
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Format\Day7-C#-Advanced-Format\obj\Debug\net8.0-windows\Day7-C#-Advanced-Format.csproj.CoreCompileInputs.cache
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Format\Day7-C#-Advanced-Format\obj\Debug\net8.0-windows\Day7-C#-Advanced-Format.dll
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Format\Day7-C#-Advanced-Format\obj\Debug\net8.0-windows\refint\Day7-C#-Advanced-Format.dll
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Format\Day7-C#-Advanced-Format\obj\Debug\net8.0-windows\Day7-C#-Advanced-Format.pdb
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Format\Day7-C#-Advanced-Format\obj\Debug\net8.0-windows\Day7-C#-Advanced-Format.genruntimeconfig.cache
+E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced-Format\Day7-C#-Advanced-Format\obj\Debug\net8.0-windows\ref\Day7-C#-Advanced-Format.dll
