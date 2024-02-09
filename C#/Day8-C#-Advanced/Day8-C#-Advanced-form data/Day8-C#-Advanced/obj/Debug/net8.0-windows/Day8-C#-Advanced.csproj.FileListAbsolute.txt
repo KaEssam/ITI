@@ -1,0 +1,16 @@
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced\Day8-C#-Advanced\bin\Debug\net8.0-windows\Day8-C#-Advanced.exe
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced\Day8-C#-Advanced\bin\Debug\net8.0-windows\Day8-C#-Advanced.deps.json
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced\Day8-C#-Advanced\bin\Debug\net8.0-windows\Day8-C#-Advanced.runtimeconfig.json
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced\Day8-C#-Advanced\bin\Debug\net8.0-windows\Day8-C#-Advanced.dll
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced\Day8-C#-Advanced\bin\Debug\net8.0-windows\Day8-C#-Advanced.pdb
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced\Day8-C#-Advanced\obj\Debug\net8.0-windows\Day8_C__Advanced.Form1.resources
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced\Day8-C#-Advanced\obj\Debug\net8.0-windows\Day8-C#-Advanced.csproj.GenerateResource.cache
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced\Day8-C#-Advanced\obj\Debug\net8.0-windows\Day8-C#-Advanced.GeneratedMSBuildEditorConfig.editorconfig
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced\Day8-C#-Advanced\obj\Debug\net8.0-windows\Day8-C#-Advanced.AssemblyInfoInputs.cache
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced\Day8-C#-Advanced\obj\Debug\net8.0-windows\Day8-C#-Advanced.AssemblyInfo.cs
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced\Day8-C#-Advanced\obj\Debug\net8.0-windows\Day8-C#-Advanced.csproj.CoreCompileInputs.cache
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced\Day8-C#-Advanced\obj\Debug\net8.0-windows\Day8-C#-Advanced.dll
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced\Day8-C#-Advanced\obj\Debug\net8.0-windows\refint\Day8-C#-Advanced.dll
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced\Day8-C#-Advanced\obj\Debug\net8.0-windows\Day8-C#-Advanced.pdb
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced\Day8-C#-Advanced\obj\Debug\net8.0-windows\Day8-C#-Advanced.genruntimeconfig.cache
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced\Day8-C#-Advanced\obj\Debug\net8.0-windows\ref\Day8-C#-Advanced.dll
