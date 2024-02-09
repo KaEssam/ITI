@@ -1,0 +1,16 @@
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Converter-V2\Day8-C#-Advanced-Converter-V2\bin\Debug\net8.0-windows\Day8-C#-Advanced-Converter-V2.exe
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Converter-V2\Day8-C#-Advanced-Converter-V2\bin\Debug\net8.0-windows\Day8-C#-Advanced-Converter-V2.deps.json
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Converter-V2\Day8-C#-Advanced-Converter-V2\bin\Debug\net8.0-windows\Day8-C#-Advanced-Converter-V2.runtimeconfig.json
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Converter-V2\Day8-C#-Advanced-Converter-V2\bin\Debug\net8.0-windows\Day8-C#-Advanced-Converter-V2.dll
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Converter-V2\Day8-C#-Advanced-Converter-V2\bin\Debug\net8.0-windows\Day8-C#-Advanced-Converter-V2.pdb
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Converter-V2\Day8-C#-Advanced-Converter-V2\obj\Debug\net8.0-windows\Day8_C__Advanced_Converter_V2.Form1.resources
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Converter-V2\Day8-C#-Advanced-Converter-V2\obj\Debug\net8.0-windows\Day8-C#-Advanced-Converter-V2.csproj.GenerateResource.cache
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Converter-V2\Day8-C#-Advanced-Converter-V2\obj\Debug\net8.0-windows\Day8-C#-Advanced-Converter-V2.GeneratedMSBuildEditorConfig.editorconfig
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Converter-V2\Day8-C#-Advanced-Converter-V2\obj\Debug\net8.0-windows\Day8-C#-Advanced-Converter-V2.AssemblyInfoInputs.cache
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Converter-V2\Day8-C#-Advanced-Converter-V2\obj\Debug\net8.0-windows\Day8-C#-Advanced-Converter-V2.AssemblyInfo.cs
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Converter-V2\Day8-C#-Advanced-Converter-V2\obj\Debug\net8.0-windows\Day8-C#-Advanced-Converter-V2.csproj.CoreCompileInputs.cache
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Converter-V2\Day8-C#-Advanced-Converter-V2\obj\Debug\net8.0-windows\Day8-C#-Advanced-Converter-V2.dll
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Converter-V2\Day8-C#-Advanced-Converter-V2\obj\Debug\net8.0-windows\refint\Day8-C#-Advanced-Converter-V2.dll
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Converter-V2\Day8-C#-Advanced-Converter-V2\obj\Debug\net8.0-windows\Day8-C#-Advanced-Converter-V2.pdb
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Converter-V2\Day8-C#-Advanced-Converter-V2\obj\Debug\net8.0-windows\Day8-C#-Advanced-Converter-V2.genruntimeconfig.cache
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Converter-V2\Day8-C#-Advanced-Converter-V2\obj\Debug\net8.0-windows\ref\Day8-C#-Advanced-Converter-V2.dll
