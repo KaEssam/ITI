@@ -1,0 +1,16 @@
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Drag&Drop\Day8-C#-Advanced-Drag&Drop\bin\Debug\net8.0-windows\Day8-C#-Advanced-Drag&Drop.exe
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Drag&Drop\Day8-C#-Advanced-Drag&Drop\bin\Debug\net8.0-windows\Day8-C#-Advanced-Drag&Drop.deps.json
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Drag&Drop\Day8-C#-Advanced-Drag&Drop\bin\Debug\net8.0-windows\Day8-C#-Advanced-Drag&Drop.runtimeconfig.json
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Drag&Drop\Day8-C#-Advanced-Drag&Drop\bin\Debug\net8.0-windows\Day8-C#-Advanced-Drag&Drop.dll
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Drag&Drop\Day8-C#-Advanced-Drag&Drop\bin\Debug\net8.0-windows\Day8-C#-Advanced-Drag&Drop.pdb
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Drag&Drop\Day8-C#-Advanced-Drag&Drop\obj\Debug\net8.0-windows\Day8_C__Advanced_Drag_Drop.Form1.resources
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Drag&Drop\Day8-C#-Advanced-Drag&Drop\obj\Debug\net8.0-windows\Day8-C#-Advanced-Drag&Drop.csproj.GenerateResource.cache
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Drag&Drop\Day8-C#-Advanced-Drag&Drop\obj\Debug\net8.0-windows\Day8-C#-Advanced-Drag&Drop.GeneratedMSBuildEditorConfig.editorconfig
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Drag&Drop\Day8-C#-Advanced-Drag&Drop\obj\Debug\net8.0-windows\Day8-C#-Advanced-Drag&Drop.AssemblyInfoInputs.cache
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Drag&Drop\Day8-C#-Advanced-Drag&Drop\obj\Debug\net8.0-windows\Day8-C#-Advanced-Drag&Drop.AssemblyInfo.cs
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Drag&Drop\Day8-C#-Advanced-Drag&Drop\obj\Debug\net8.0-windows\Day8-C#-Advanced-Drag&Drop.csproj.CoreCompileInputs.cache
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Drag&Drop\Day8-C#-Advanced-Drag&Drop\obj\Debug\net8.0-windows\Day8-C#-Advanced-Drag&Drop.dll
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Drag&Drop\Day8-C#-Advanced-Drag&Drop\obj\Debug\net8.0-windows\refint\Day8-C#-Advanced-Drag&Drop.dll
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Drag&Drop\Day8-C#-Advanced-Drag&Drop\obj\Debug\net8.0-windows\Day8-C#-Advanced-Drag&Drop.pdb
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Drag&Drop\Day8-C#-Advanced-Drag&Drop\obj\Debug\net8.0-windows\Day8-C#-Advanced-Drag&Drop.genruntimeconfig.cache
+E:\frontend Projectes\c#\C# Advanced\Day8-C#-Advanced-Drag&Drop\Day8-C#-Advanced-Drag&Drop\obj\Debug\net8.0-windows\ref\Day8-C#-Advanced-Drag&Drop.dll
