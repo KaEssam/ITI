@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>day3-lab</title>
+</head>
+<body>
+    <input id="text" type="text" >
+    <button id="button">Start clock</button>
+    <button id="button-stop">Stop clock</button>
+    <div id="clock"></div>
+    
+    <form action="" method="get" id="login-form">
+        <input type="text" name="username" id="username" placeholder="Enter your user name here">
+        <input type="password" name="password" id="password" required>
+        <button type="submit" id="login">Login</button>
+    </form>
+
+
+    <label for="termsChecked">
+        <input type="checkbox" name="termsChecked" id="termsChecked" required>
+        <a href="term.html" target="_blank">I agree to the terms and conditions</a>
+        
+    </label>
+
+    <label for="fristName">First Name:</label>
+    <input type="text" name="fristName" id="fristName" onkeydown="validateAlphabetic(event)">
+
+
+    <div id="imageContainer">
+        <img src="img/img-1.jpeg" id="img-1">
+        <img src="img/img-2.jpg" id="img-2">
+        <img src="img/img-3.jpeg" id="img-3">
+    </div>
+
+    <p>Click Count: <span id="clickCount">0</span></p>
+
+    <script src="day3.js"></script>
+</body>
+</html>
