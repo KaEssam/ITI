@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>day4-lab</title>
+
+    <style>
+
+        /* style-slider */
+
+        #gallery {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 400px;
+            overflow: hidden;
+        }
+
+        #gallery img {
+            opacity: 1;
+            transition: opacity 0.5s;
+        }
+
+        #controls {
+            margin-top: 10px;
+            text-align: center;
+        }
+    </style>
+    
+</head>
+<body>
+    <!-- 1- Make a registration form   -->
+    <form action="" class="registration-form">
+        <label for="username">Name</label>
+    <input onchange="console.log('Test')" onblur="ValidateName(this)" onfocus="ChangeColor(this)" type="text" placeholder="Enter your Name"><br>
+    <span id="username"></span>
+    <br>
+    <label for="email">Email</label>
+    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <br>
+
+    <label for="citys"></label>
+        <select name="" id="city">
+            <option value="cairo">Cairo</option>
+            <option value="giza">Giza</option>
+            <option value="alex">Alex</option>
+            <option value="minia">Minia</option>
+            <option value="qna">Qna</option>
+        </select>
+    <br>
+
+    <label for="password">Password</label>
+        <input type="password" id="password" placeholder="Enter Password" value="" style="background-color: lightgray;">
+        <span id="passwordMessage"></span>
+        <br>
+
+        <label for="repeatPassword">Repeat Password</label>
+        <input type="password" id="repeatPassword" placeholder="Repeat Password" value="" style="background-color: lightgray;" onblur="matchPassword()">
+        <span id="repeatPasswordMessage"></span>
+        <br>
+
+    <label for="termsChecked">
+        <input type="checkbox" name="termsChecked" id="termsChecked" required>
+        <a href="/day4-lab-K/term.html" target="_blank">I agree to the terms and conditions</a>
+    </label>
+    <br>
+    <button type="submit" class="registerbtn">Register</button>
+    </form>
+    
+
+    <!-- 2- Make a photo gallery with buttons -->
+
+    <div id="gallery"></div>
+    <div id="controls">
+        <button id="play">Play</button>
+        <button id="stop">Stop</button>
+        <button id="prev">Previous</button>
+        <button id="next">Next</button>
+    </div>
+
+    <script src="day4.js"></script>
+    
+</body>
+</html>
