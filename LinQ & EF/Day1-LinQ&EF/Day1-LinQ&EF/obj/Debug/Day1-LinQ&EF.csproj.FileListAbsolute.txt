@@ -1,0 +1,7 @@
+E:\frontend Projectes\c#\LinQ & EF\Day1-LinQ&EF\Day1-LinQ&EF\obj\Debug\Day1-LinQ&EF.csproj.AssemblyReference.cache
+E:\frontend Projectes\c#\LinQ & EF\Day1-LinQ&EF\Day1-LinQ&EF\obj\Debug\Day1-LinQ&EF.csproj.CoreCompileInputs.cache
+E:\frontend Projectes\c#\LinQ & EF\Day1-LinQ&EF\Day1-LinQ&EF\bin\Debug\Day1-LinQ&EF.exe.config
+E:\frontend Projectes\c#\LinQ & EF\Day1-LinQ&EF\Day1-LinQ&EF\bin\Debug\Day1-LinQ&EF.exe
+E:\frontend Projectes\c#\LinQ & EF\Day1-LinQ&EF\Day1-LinQ&EF\bin\Debug\Day1-LinQ&EF.pdb
+E:\frontend Projectes\c#\LinQ & EF\Day1-LinQ&EF\Day1-LinQ&EF\obj\Debug\Day1-LinQ&EF.exe
+E:\frontend Projectes\c#\LinQ & EF\Day1-LinQ&EF\Day1-LinQ&EF\obj\Debug\Day1-LinQ&EF.pdb
