@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ONeBXlx0iCKHB6XqTJRhsmFGZEeCpZ1XLkNm3Jw/wQClj/fHnD4mJcYieoZwQsP28Xz3Sl/WX6vc54H5pgcnmw==",
+  "success": true,
+  "projectFilePath": "E:\\frontend Projectes\\c#\\Testing Task\\Testing Task\\TestingTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaess\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.1\\microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512",
+    "C:\\Users\\kaess\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\kaess\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

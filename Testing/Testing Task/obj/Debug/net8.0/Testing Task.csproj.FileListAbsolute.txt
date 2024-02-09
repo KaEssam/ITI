@@ -1,0 +1,14 @@
+E:\frontend Projectes\c#\Testing Task\Testing Task\bin\Debug\net8.0\Testing Task.exe
+E:\frontend Projectes\c#\Testing Task\Testing Task\bin\Debug\net8.0\Testing Task.deps.json
+E:\frontend Projectes\c#\Testing Task\Testing Task\bin\Debug\net8.0\Testing Task.runtimeconfig.json
+E:\frontend Projectes\c#\Testing Task\Testing Task\bin\Debug\net8.0\Testing Task.dll
+E:\frontend Projectes\c#\Testing Task\Testing Task\bin\Debug\net8.0\Testing Task.pdb
+E:\frontend Projectes\c#\Testing Task\Testing Task\obj\Debug\net8.0\Testing Task.GeneratedMSBuildEditorConfig.editorconfig
+E:\frontend Projectes\c#\Testing Task\Testing Task\obj\Debug\net8.0\Testing Task.AssemblyInfoInputs.cache
+E:\frontend Projectes\c#\Testing Task\Testing Task\obj\Debug\net8.0\Testing Task.AssemblyInfo.cs
+E:\frontend Projectes\c#\Testing Task\Testing Task\obj\Debug\net8.0\Testing Task.csproj.CoreCompileInputs.cache
+E:\frontend Projectes\c#\Testing Task\Testing Task\obj\Debug\net8.0\Testing Task.dll
+E:\frontend Projectes\c#\Testing Task\Testing Task\obj\Debug\net8.0\refint\Testing Task.dll
+E:\frontend Projectes\c#\Testing Task\Testing Task\obj\Debug\net8.0\Testing Task.pdb
+E:\frontend Projectes\c#\Testing Task\Testing Task\obj\Debug\net8.0\Testing Task.genruntimeconfig.cache
+E:\frontend Projectes\c#\Testing Task\Testing Task\obj\Debug\net8.0\ref\Testing Task.dll
