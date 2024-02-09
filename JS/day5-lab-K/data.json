@@ -1,0 +1,31 @@
+{
+"student1": {
+    "ID": 1,
+    "name": "Karim Essam",
+    "Age": 28,
+    "Address": "Giza, Egypt",
+    "Skills": ["Programming", "Communication", "Problem Solving"],
+    "IsLeader": true
+},
+
+"student2": {
+    "ID": 2,
+    "name": "Sarah Hany",
+    "Age": 29,
+    "Address": "minia, Egypt",
+    "Skills": ["Data Analysis", "Teamwork", "Time Management"],
+    "IsLeader": false
+},
+"student3": {
+    "ID": 3,
+    "name": "Ahmed Mohamed",
+    "Age": 21,
+    "Address": null,
+    "Skills": ["Web Development", "Creativity", "Adaptability"],
+    "IsLeader": false
+}
+}
+
+
+
+    

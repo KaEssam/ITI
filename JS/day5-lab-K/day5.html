@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form action="#" class="registration-form">
+        <label for="username">Name</label>
+        <input onchange="console.log('Test')" onblur="ValidateName(this)" onfocus="ChangeColor(this)" type="text" id="un" name="username" placeholder="Enter your Name"><br>
+        <span id="usernameMessage"></span>
+        <br>
+
+        <label for="email">Email</label>
+        <input type="text" name="email" placeholder="Enter Email" id="email" required>
+        <span id="emailMessage"></span>
+        <br>
+
+        <label for="city">City</label>
+        <select name="city" id="city">
+            <option value="cairo">Cairo</option>
+            <option value="giza">Giza</option>
+            <option value="alex">Alex</option>
+            <option value="minia">Minia</option>
+            <option value="qna">Qna</option>
+        </select>
+        <br>
+
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password" placeholder="Enter Password" value="" style="background-color: lightgray;">
+        <span id="passwordMessage"></span>
+        <br>
+
+        <label for="repeatPassword">Repeat Password</label>
+        <input type="password" id="repeatPassword" name="repeatPassword" placeholder="Repeat Password" value="" style="background-color: lightgray;" onblur="matchPassword()">
+        <span id="repeatPasswordMessage"></span>
+        <br>
+
+        <label for="rememberMe">
+            <input type="checkbox" name="rememberMe" id="rememberMe"> Remember me
+        </label>
+        <br>
+
+        <label for="termsChecked">
+            <input type="checkbox" name="termsChecked" id="termsChecked" required>
+            <a href="/day4-lab-K/term.html" target="_blank">I agree to the terms and conditions</a>
+        </label>
+        <br>
+
+        <button type="submit" class="registerbtn" onclick="setLocalStorage();">Register</button>
+    </form>
+
+
+    <!-- 6-aj-->
+
+    <label for="userId">Enter User ID: </label>
+    <input type="text" id="userId" />
+    <button onclick="displayUserData()">Display</button>
+
+    <hr />
+
+    <label for="userList">Select a User: </label>
+    <select id="userList" onchange="displaySelectedUserData()"></select>
+
+    <div id="userData"></div>
+
+    <script src="/day5-lab-K/day5.js"></script>
+  </body>
+</html>
