@@ -1,0 +1,14 @@
+E:\frontend Projectes\c#\Lab day2 oop\Lab day2 oop\obj\Debug\net6.0\Lab day2 oop.GeneratedMSBuildEditorConfig.editorconfig
+E:\frontend Projectes\c#\Lab day2 oop\Lab day2 oop\obj\Debug\net6.0\Lab day2 oop.AssemblyInfoInputs.cache
+E:\frontend Projectes\c#\Lab day2 oop\Lab day2 oop\obj\Debug\net6.0\Lab day2 oop.AssemblyInfo.cs
+E:\frontend Projectes\c#\Lab day2 oop\Lab day2 oop\obj\Debug\net6.0\Lab day2 oop.csproj.CoreCompileInputs.cache
+E:\frontend Projectes\c#\Lab day2 oop\Lab day2 oop\bin\Debug\net6.0\Lab day2 oop.exe
+E:\frontend Projectes\c#\Lab day2 oop\Lab day2 oop\bin\Debug\net6.0\Lab day2 oop.deps.json
+E:\frontend Projectes\c#\Lab day2 oop\Lab day2 oop\bin\Debug\net6.0\Lab day2 oop.runtimeconfig.json
+E:\frontend Projectes\c#\Lab day2 oop\Lab day2 oop\bin\Debug\net6.0\Lab day2 oop.dll
+E:\frontend Projectes\c#\Lab day2 oop\Lab day2 oop\bin\Debug\net6.0\Lab day2 oop.pdb
+E:\frontend Projectes\c#\Lab day2 oop\Lab day2 oop\obj\Debug\net6.0\Lab day2 oop.dll
+E:\frontend Projectes\c#\Lab day2 oop\Lab day2 oop\obj\Debug\net6.0\refint\Lab day2 oop.dll
+E:\frontend Projectes\c#\Lab day2 oop\Lab day2 oop\obj\Debug\net6.0\Lab day2 oop.pdb
+E:\frontend Projectes\c#\Lab day2 oop\Lab day2 oop\obj\Debug\net6.0\Lab day2 oop.genruntimeconfig.cache
+E:\frontend Projectes\c#\Lab day2 oop\Lab day2 oop\obj\Debug\net6.0\ref\Lab day2 oop.dll
