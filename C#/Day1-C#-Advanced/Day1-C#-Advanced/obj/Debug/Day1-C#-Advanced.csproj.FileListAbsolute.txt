@@ -1,0 +1,7 @@
+C:\Users\Karim\Desktop\lab-day1\c# lab\Day1-C#-Advanced\Day1-C#-Advanced\obj\Debug\Day1-C#-Advanced.csproj.AssemblyReference.cache
+C:\Users\Karim\Desktop\lab-day1\c# lab\Day1-C#-Advanced\Day1-C#-Advanced\obj\Debug\Day1-C#-Advanced.csproj.CoreCompileInputs.cache
+C:\Users\Karim\Desktop\lab-day1\c# lab\Day1-C#-Advanced\Day1-C#-Advanced\bin\Debug\Day1-C#-Advanced.exe.config
+C:\Users\Karim\Desktop\lab-day1\c# lab\Day1-C#-Advanced\Day1-C#-Advanced\bin\Debug\Day1-C#-Advanced.exe
+C:\Users\Karim\Desktop\lab-day1\c# lab\Day1-C#-Advanced\Day1-C#-Advanced\bin\Debug\Day1-C#-Advanced.pdb
+C:\Users\Karim\Desktop\lab-day1\c# lab\Day1-C#-Advanced\Day1-C#-Advanced\obj\Debug\Day1-C#-Advanced.exe
+C:\Users\Karim\Desktop\lab-day1\c# lab\Day1-C#-Advanced\Day1-C#-Advanced\obj\Debug\Day1-C#-Advanced.pdb
