@@ -1,0 +1,44 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Update</title>
+</head>
+<body>
+    <div>
+        @using ASP.Net_MVC_Day2.Models;
+        @{
+            Employee employee = (Employee)ViewData["employee"];
+        }
+        <table>
+            <form method="post" action="~/Employee/Update">
+                <div>
+                    <label for="id">Employee ID:</label>
+                    <input type="text" id="id" name="id" placeholder="ID" value="@employee.ID"/>
+                </div>
+                <div>
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" placeholder="Enter  Name" value="@employee.Name"/>
+                </div>
+                <div>
+                    <label for="age">Age:</label>
+                    <input type="number" id="age" name="age" placeholder="Enter Age" value="@employee.Age" />
+                </div>
+                <div>
+                    <label for="salary">Salary:</label>
+                    <input type="number" id="salary" name="salary" placeholder="Enter Salary" value="@employee.Salary"/>
+                </div>
+                <div>
+                    <input type="submit" value="Update" />
+                </div>
+            </form>
+        </table>
+    </div>
+</body>
+</html>
