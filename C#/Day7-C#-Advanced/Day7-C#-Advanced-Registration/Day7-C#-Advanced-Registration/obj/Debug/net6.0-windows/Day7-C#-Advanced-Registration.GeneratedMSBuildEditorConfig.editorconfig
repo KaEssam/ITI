@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Day7_C__Advanced_Registration
-build_property.ProjectDir = E:\frontend Projectes\c#\C# Advanced\Day7-C#-Advanced\Day7-C#-Advanced-Registration\Day7-C#-Advanced-Registration\
+build_property.ProjectDir = E:\frontend Projectes\ITI\C#\Day7-C#-Advanced\Day7-C#-Advanced-Registration\Day7-C#-Advanced-Registration\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

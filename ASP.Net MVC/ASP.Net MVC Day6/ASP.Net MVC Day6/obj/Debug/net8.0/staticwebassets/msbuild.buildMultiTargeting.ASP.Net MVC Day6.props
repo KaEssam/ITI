@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASP.Net MVC Day6.props" />
+</Project>

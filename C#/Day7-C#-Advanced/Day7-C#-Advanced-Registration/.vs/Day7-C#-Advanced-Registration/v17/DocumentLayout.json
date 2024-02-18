@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\frontend Projectes\\ITI\\C#\\Day7-C#-Advanced\\Day7-C#-Advanced-Registration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD296947-746B-4723-A9FE-CE555C4FCD54}|Day7-C#-Advanced-Registration\\Day7-C#-Advanced-Registration.csproj|e:\\frontend projectes\\iti\\c#\\day7-c#-advanced\\day7-c#-advanced-registration\\day7-c#-advanced-registration\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD296947-746B-4723-A9FE-CE555C4FCD54}|Day7-C#-Advanced-Registration\\Day7-C#-Advanced-Registration.csproj|solutionrelative:day7-c#-advanced-registration\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD296947-746B-4723-A9FE-CE555C4FCD54}|Day7-C#-Advanced-Registration\\Day7-C#-Advanced-Registration.csproj|e:\\frontend projectes\\iti\\c#\\day7-c#-advanced\\day7-c#-advanced-registration\\day7-c#-advanced-registration\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD296947-746B-4723-A9FE-CE555C4FCD54}|Day7-C#-Advanced-Registration\\Day7-C#-Advanced-Registration.csproj|solutionrelative:day7-c#-advanced-registration\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD296947-746B-4723-A9FE-CE555C4FCD54}|Day7-C#-Advanced-Registration\\Day7-C#-Advanced-Registration.csproj|e:\\frontend projectes\\iti\\c#\\day7-c#-advanced\\day7-c#-advanced-registration\\day7-c#-advanced-registration\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD296947-746B-4723-A9FE-CE555C4FCD54}|Day7-C#-Advanced-Registration\\Day7-C#-Advanced-Registration.csproj|solutionrelative:day7-c#-advanced-registration\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\frontend Projectes\\ITI\\C#\\Day7-C#-Advanced\\Day7-C#-Advanced-Registration\\Day7-C#-Advanced-Registration\\Form1.cs",
+              "RelativeDocumentMoniker": "Day7-C#-Advanced-Registration\\Form1.cs",
+              "ToolTip": "E:\\frontend Projectes\\ITI\\C#\\Day7-C#-Advanced\\Day7-C#-Advanced-Registration\\Day7-C#-Advanced-Registration\\Form1.cs [Design]",
+              "RelativeToolTip": "Day7-C#-Advanced-Registration\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T21:45:38.836Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\frontend Projectes\\ITI\\C#\\Day7-C#-Advanced\\Day7-C#-Advanced-Registration\\Day7-C#-Advanced-Registration\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Day7-C#-Advanced-Registration\\Form1.Designer.cs",
+              "ToolTip": "E:\\frontend Projectes\\ITI\\C#\\Day7-C#-Advanced\\Day7-C#-Advanced-Registration\\Day7-C#-Advanced-Registration\\Form1.Designer.cs",
+              "RelativeToolTip": "Day7-C#-Advanced-Registration\\Form1.Designer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAArwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T21:45:38.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\frontend Projectes\\ITI\\C#\\Day7-C#-Advanced\\Day7-C#-Advanced-Registration\\Day7-C#-Advanced-Registration\\Form1.cs",
+              "RelativeDocumentMoniker": "Day7-C#-Advanced-Registration\\Form1.cs",
+              "ToolTip": "E:\\frontend Projectes\\ITI\\C#\\Day7-C#-Advanced\\Day7-C#-Advanced-Registration\\Day7-C#-Advanced-Registration\\Form1.cs",
+              "RelativeToolTip": "Day7-C#-Advanced-Registration\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA0wB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T21:45:38.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

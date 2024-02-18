@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\frontend Projectes\\c#\\C# Advanced\\Day7-C#-Advanced\\Day7-C#-Advanced-Registration\\Day7-C#-Advanced-Registration\\Day7-C#-Advanced-Registration.csproj",
+      "projectUniqueName": "E:\\frontend Projectes\\ITI\\C#\\Day7-C#-Advanced\\Day7-C#-Advanced-Registration\\Day7-C#-Advanced-Registration\\Day7-C#-Advanced-Registration.csproj",
       "projectName": "Day7-C#-Advanced-Registration",
-      "projectPath": "E:\\frontend Projectes\\c#\\C# Advanced\\Day7-C#-Advanced\\Day7-C#-Advanced-Registration\\Day7-C#-Advanced-Registration\\Day7-C#-Advanced-Registration.csproj",
+      "projectPath": "E:\\frontend Projectes\\ITI\\C#\\Day7-C#-Advanced\\Day7-C#-Advanced-Registration\\Day7-C#-Advanced-Registration\\Day7-C#-Advanced-Registration.csproj",
       "packagesPath": "C:\\Users\\kaess\\.nuget\\packages\\",
-      "outputPath": "E:\\frontend Projectes\\c#\\C# Advanced\\Day7-C#-Advanced\\Day7-C#-Advanced-Registration\\Day7-C#-Advanced-Registration\\obj\\",
+      "outputPath": "E:\\frontend Projectes\\ITI\\C#\\Day7-C#-Advanced\\Day7-C#-Advanced-Registration\\Day7-C#-Advanced-Registration\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kaess\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -64,7 +69,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

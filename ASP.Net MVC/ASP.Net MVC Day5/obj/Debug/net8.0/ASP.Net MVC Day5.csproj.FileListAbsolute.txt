@@ -1,0 +1,15 @@
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day5\bin\Debug\net8.0\ASP.Net MVC Day5.exe
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day5\bin\Debug\net8.0\ASP.Net MVC Day5.deps.json
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day5\bin\Debug\net8.0\ASP.Net MVC Day5.runtimeconfig.json
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day5\bin\Debug\net8.0\ASP.Net MVC Day5.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day5\bin\Debug\net8.0\ASP.Net MVC Day5.pdb
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day5\obj\Debug\net8.0\ASP.Net MVC Day5.GeneratedMSBuildEditorConfig.editorconfig
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day5\obj\Debug\net8.0\ASP.Net MVC Day5.AssemblyInfoInputs.cache
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day5\obj\Debug\net8.0\ASP.Net MVC Day5.AssemblyInfo.cs
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day5\obj\Debug\net8.0\ASP.Net MVC Day5.csproj.CoreCompileInputs.cache
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day5\obj\Debug\net8.0\ASP.Net MVC Day5.sourcelink.json
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day5\obj\Debug\net8.0\ASP.Net MVC Day5.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day5\obj\Debug\net8.0\refint\ASP.Net MVC Day5.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day5\obj\Debug\net8.0\ASP.Net MVC Day5.pdb
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day5\obj\Debug\net8.0\ASP.Net MVC Day5.genruntimeconfig.cache
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day5\obj\Debug\net8.0\ref\ASP.Net MVC Day5.dll

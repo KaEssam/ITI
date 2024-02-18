@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\frontend Projectes\\ITI\\ASP.Net MVC\\ASP.Net MVC Day6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1750BC6-F877-47A1-8A98-F57B0BE6BFE9}|ASP.Net MVC Day6\\ASP.Net MVC Day6.csproj|e:\\frontend projectes\\iti\\asp.net mvc\\asp.net mvc day6\\asp.net mvc day6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1750BC6-F877-47A1-8A98-F57B0BE6BFE9}|ASP.Net MVC Day6\\ASP.Net MVC Day6.csproj|solutionrelative:asp.net mvc day6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\frontend Projectes\\ITI\\ASP.Net MVC\\ASP.Net MVC Day6\\ASP.Net MVC Day6\\Program.cs",
+              "RelativeDocumentMoniker": "ASP.Net MVC Day6\\Program.cs",
+              "ToolTip": "E:\\frontend Projectes\\ITI\\ASP.Net MVC\\ASP.Net MVC Day6\\ASP.Net MVC Day6\\Program.cs",
+              "RelativeToolTip": "ASP.Net MVC Day6\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAkwDwAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T12:19:21.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

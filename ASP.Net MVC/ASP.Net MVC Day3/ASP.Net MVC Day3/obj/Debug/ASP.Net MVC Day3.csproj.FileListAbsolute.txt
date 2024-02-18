@@ -83,3 +83,88 @@ E:\frontend Projectes\c#\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\EntityFramework.x
 E:\frontend Projectes\c#\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\EntityFramework.SqlServer.xml
 E:\frontend Projectes\c#\ASP.Net MVC Day3\ASP.Net MVC Day3\obj\Debug\ASP.Net_MVC_Day3.Migrations.CreateDB.resources
 E:\frontend Projectes\c#\ASP.Net MVC Day3\ASP.Net MVC Day3\obj\Debug\ASP.Net MVC Day3.csproj.GenerateResource.cache
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\ASP.Net MVC Day3.dll.config
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\ASP.Net MVC Day3.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\ASP.Net MVC Day3.pdb
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\csc.exe
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\csc.exe.config
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\csc.rsp
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\csi.exe
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\csi.exe.config
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\csi.rsp
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\Microsoft.Managed.Core.targets
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\System.AppContext.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\System.Collections.Immutable.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\System.Console.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\System.Globalization.Calendars.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\System.IO.Compression.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\System.IO.FileSystem.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\System.Net.Http.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\System.Net.Sockets.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\System.Reflection.Metadata.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\System.ValueTuple.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\System.Xml.XmlDocument.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\System.Xml.XPath.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\vbc.exe
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\vbc.exe.config
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\vbc.rsp
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\VBCSCompiler.exe
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\roslyn\VBCSCompiler.exe.config
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\Antlr3.Runtime.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\EntityFramework.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\EntityFramework.SqlServer.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\Microsoft.Web.Infrastructure.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\Newtonsoft.Json.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\System.Web.Helpers.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\System.Web.Mvc.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\System.Web.Optimization.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\System.Web.Razor.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\System.Web.WebPages.Deployment.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\System.Web.WebPages.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\System.Web.WebPages.Razor.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\WebGrease.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\EntityFramework.xml
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\EntityFramework.SqlServer.xml
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\System.Web.Helpers.xml
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\System.Web.Mvc.xml
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\System.Web.Optimization.xml
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\System.Web.Razor.xml
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\System.Web.WebPages.xml
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\System.Web.WebPages.Deployment.xml
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\System.Web.WebPages.Razor.xml
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\Newtonsoft.Json.xml
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\Antlr3.Runtime.pdb
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\obj\Debug\ASP.Net MVC Day3.csproj.AssemblyReference.cache
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\obj\Debug\ASP.Net_MVC_Day3.Migrations.CreateDB.resources
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\obj\Debug\ASP.Net MVC Day3.csproj.GenerateResource.cache
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\obj\Debug\ASP.Net MVC Day3.csproj.CoreCompileInputs.cache
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\obj\Debug\ASP.Net .8208F09B.Up2Date
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\obj\Debug\ASP.Net MVC Day3.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day3\ASP.Net MVC Day3\obj\Debug\ASP.Net MVC Day3.pdb

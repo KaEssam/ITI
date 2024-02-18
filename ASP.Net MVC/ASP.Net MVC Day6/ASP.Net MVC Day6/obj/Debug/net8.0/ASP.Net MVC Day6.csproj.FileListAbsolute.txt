@@ -1,0 +1,26 @@
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day6\ASP.Net MVC Day6\bin\Debug\net8.0\appsettings.Development.json
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day6\ASP.Net MVC Day6\bin\Debug\net8.0\appsettings.json
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day6\ASP.Net MVC Day6\bin\Debug\net8.0\ASP.Net MVC Day6.exe
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day6\ASP.Net MVC Day6\bin\Debug\net8.0\ASP.Net MVC Day6.deps.json
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day6\ASP.Net MVC Day6\bin\Debug\net8.0\ASP.Net MVC Day6.runtimeconfig.json
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day6\ASP.Net MVC Day6\bin\Debug\net8.0\ASP.Net MVC Day6.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day6\ASP.Net MVC Day6\bin\Debug\net8.0\ASP.Net MVC Day6.pdb
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day6\ASP.Net MVC Day6\obj\Debug\net8.0\ASP.Net MVC Day6.GeneratedMSBuildEditorConfig.editorconfig
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day6\ASP.Net MVC Day6\obj\Debug\net8.0\ASP.Net MVC Day6.AssemblyInfoInputs.cache
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day6\ASP.Net MVC Day6\obj\Debug\net8.0\ASP.Net MVC Day6.AssemblyInfo.cs
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day6\ASP.Net MVC Day6\obj\Debug\net8.0\ASP.Net MVC Day6.csproj.CoreCompileInputs.cache
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day6\ASP.Net MVC Day6\obj\Debug\net8.0\ASP.Net MVC Day6.MvcApplicationPartsAssemblyInfo.cache
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day6\ASP.Net MVC Day6\obj\Debug\net8.0\ASP.Net MVC Day6.sourcelink.json
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day6\ASP.Net MVC Day6\obj\Debug\net8.0\staticwebassets.build.json
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day6\ASP.Net MVC Day6\obj\Debug\net8.0\staticwebassets.development.json
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day6\ASP.Net MVC Day6\obj\Debug\net8.0\staticwebassets\msbuild.ASP.Net MVC Day6.Microsoft.AspNetCore.StaticWebAssets.props
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day6\ASP.Net MVC Day6\obj\Debug\net8.0\staticwebassets\msbuild.build.ASP.Net MVC Day6.props
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day6\ASP.Net MVC Day6\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASP.Net MVC Day6.props
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day6\ASP.Net MVC Day6\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASP.Net MVC Day6.props
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day6\ASP.Net MVC Day6\obj\Debug\net8.0\staticwebassets.pack.json
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day6\ASP.Net MVC Day6\obj\Debug\net8.0\scopedcss\bundle\ASP.Net MVC Day6.styles.css
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day6\ASP.Net MVC Day6\obj\Debug\net8.0\ASP.Net MVC Day6.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day6\ASP.Net MVC Day6\obj\Debug\net8.0\refint\ASP.Net MVC Day6.dll
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day6\ASP.Net MVC Day6\obj\Debug\net8.0\ASP.Net MVC Day6.pdb
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day6\ASP.Net MVC Day6\obj\Debug\net8.0\ASP.Net MVC Day6.genruntimeconfig.cache
+E:\frontend Projectes\ITI\ASP.Net MVC\ASP.Net MVC Day6\ASP.Net MVC Day6\obj\Debug\net8.0\ref\ASP.Net MVC Day6.dll

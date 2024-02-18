@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\frontend Projectes\\ITI\\ASP.Net MVC\\ASP.Net MVC Day1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7571D15-5B55-4226-AADF-16F52F0F2226}|ASP.Net MVC Day1\\ASP.Net MVC Day1.csproj|e:\\frontend projectes\\iti\\asp.net mvc\\asp.net mvc day1\\asp.net mvc day1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7571D15-5B55-4226-AADF-16F52F0F2226}|ASP.Net MVC Day1\\ASP.Net MVC Day1.csproj|solutionrelative:asp.net mvc day1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7571D15-5B55-4226-AADF-16F52F0F2226}|ASP.Net MVC Day1\\ASP.Net MVC Day1.csproj|E:\\frontend Projectes\\ITI\\ASP.Net MVC\\ASP.Net MVC Day1\\asp.net mvc day1\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7571D15-5B55-4226-AADF-16F52F0F2226}|ASP.Net MVC Day1\\ASP.Net MVC Day1.csproj|solutionrelative:asp.net mvc day1\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7571D15-5B55-4226-AADF-16F52F0F2226}|ASP.Net MVC Day1\\ASP.Net MVC Day1.csproj|E:\\frontend Projectes\\ITI\\ASP.Net MVC\\ASP.Net MVC Day1\\asp.net mvc day1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7571D15-5B55-4226-AADF-16F52F0F2226}|ASP.Net MVC Day1\\ASP.Net MVC Day1.csproj|solutionrelative:asp.net mvc day1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\frontend Projectes\\ITI\\ASP.Net MVC\\ASP.Net MVC Day1\\ASP.Net MVC Day1\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ASP.Net MVC Day1\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\frontend Projectes\\ITI\\ASP.Net MVC\\ASP.Net MVC Day1\\ASP.Net MVC Day1\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "ASP.Net MVC Day1\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T01:49:01.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Company.cs",
+              "DocumentMoniker": "E:\\frontend Projectes\\ITI\\ASP.Net MVC\\ASP.Net MVC Day1\\ASP.Net MVC Day1\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "ASP.Net MVC Day1\\Models\\Company.cs",
+              "ToolTip": "E:\\frontend Projectes\\ITI\\ASP.Net MVC\\ASP.Net MVC Day1\\ASP.Net MVC Day1\\Models\\Company.cs",
+              "RelativeToolTip": "ASP.Net MVC Day1\\Models\\Company.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T01:49:01.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\frontend Projectes\\ITI\\ASP.Net MVC\\ASP.Net MVC Day1\\ASP.Net MVC Day1\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ASP.Net MVC Day1\\Models\\Employee.cs",
+              "ToolTip": "E:\\frontend Projectes\\ITI\\ASP.Net MVC\\ASP.Net MVC Day1\\ASP.Net MVC Day1\\Models\\Employee.cs",
+              "RelativeToolTip": "ASP.Net MVC Day1\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T01:49:01.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
